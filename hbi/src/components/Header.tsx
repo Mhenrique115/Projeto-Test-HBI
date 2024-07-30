@@ -1,5 +1,4 @@
 import {Logo} from "@/components/Logo"
-import { Interface } from "readline";
 
 interface LiProps {
   href: string,
